@@ -1,3 +1,6 @@
+#include <Arduino.h>
+#include <M5CoreInk.h>
+#include <Wire.h>
 #include <thread>
 #include <mutex>
 #include <condition_variable>
